@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "PSIOP-WX",
+  "description": "污染源运维平台",
+  "appid": "wx0a65bddc152134c2",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

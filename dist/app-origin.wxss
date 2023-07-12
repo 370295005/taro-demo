@@ -1,0 +1,176 @@
+/*!**************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-6.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-6.use[2]!./node_modules/less-loader/dist/cjs.js!./src/app.less ***!
+  \**************************************************************************************************************************************************************************************************************************************/
+.nut-input {
+  padding: 20rpx 0 !important;
+}
+.bg {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+.text-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+page {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  line-height: 1;
+}
+.h5-html,
+.h5-body,
+.h5-div,
+.h5-span,
+applet,
+object,
+.h5-iframe,
+.h5-h1,
+.h5-h2,
+.h5-h3,
+.h5-h4,
+.h5-h5,
+.h5-h6,
+.h5-p,
+.h5-blockquote,
+.h5-textarea,
+.h5-pre,
+.h5-a,
+.h5-abbr,
+acronym,
+.h5-address,
+.h5-big,
+.h5-cite,
+.h5-code,
+.h5-del,
+.h5-dfn,
+.h5-em,
+.h5-img,
+.h5-ins,
+.h5-kbd,
+.h5-q,
+.h5-s,
+.h5-samp,
+.h5-small,
+strike,
+.h5-strong,
+.h5-sub,
+.h5-sup,
+.h5-tt,
+.h5-var,
+.h5-b,
+.h5-u,
+.h5-i,
+center,
+.h5-dl,
+.h5-dt,
+.h5-dd,
+.h5-ol,
+.h5-ul,
+.h5-li,
+.h5-fieldset,
+.h5-form,
+.h5-label,
+.h5-legend,
+.h5-table,
+.h5-caption,
+.h5-tbody,
+.h5-tfoot,
+.h5-thead,
+.h5-tr,
+.h5-th,
+.h5-td,
+.h5-article,
+.h5-aside,
+.h5-canvas,
+.h5-details,
+embed,
+.h5-figure,
+.h5-figcaption,
+.h5-footer,
+.h5-header,
+menu,
+.h5-nav,
+.h5-output,
+ruby,
+.h5-section,
+.h5-summary,
+.h5-time,
+.h5-mark,
+.h5-audio,
+.h5-video,
+.h5-input,
+view {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+  vertical-align: baseline;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+.h5-article,
+.h5-aside,
+.h5-details,
+.h5-figcaption,
+.h5-figure,
+.h5-footer,
+.h5-header,
+menu,
+.h5-nav,
+.h5-section,
+.h5-img {
+  display: block;
+}
+.h5-body {
+  line-height: 1;
+  overflow: hidden;
+}
+.h5-blockquote,
+.h5-q {
+  quotes: none;
+}
+.h5-blockquote:before,
+.h5-blockquote:after,
+.h5-q:before,
+.h5-q:after {
+  content: none;
+}
+.h5-table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.h5-a {
+  color: #000000;
+  text-decoration: none;
+}
+.h5-li {
+  list-style: none;
+}
+.h5-body {
+  -webkit-text-size-adjust: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-overflow-scrolling: touch;
+}
+.h5-input,
+.h5-textarea {
+  outline: none;
+  resize: none;
+}
+.h5-img {
+  width: 100%;
+}
+.h5-html,
+.h5-body {
+  width: 100%;
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
